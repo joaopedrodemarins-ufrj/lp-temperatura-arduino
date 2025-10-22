@@ -1,6 +1,5 @@
 # lp-temperatura-arduino
 Alunos:
-- Sandro Miranda (125055673)
-- Pedro Braga (125034601)
-- Victor Russo (125378330)
-- João Pedro Marins (125204719)
+- João Pedro de Marins (125204719)
+- João Marcelo (125101880)
+- Lucas Duarte (125116966)
